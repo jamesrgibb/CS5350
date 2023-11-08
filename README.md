@@ -7,3 +7,5 @@ Decision Tree: folder contains all the code, data, and resources related to buil
 Ensemble Learning: contains various ensemble methods like Random Forests, AdaBoost aiming to improve the model performance.
 
 Linear Regression: contains methods implmementing stochastic gradient descent, and batch gradient descent. 
+
+Perceptron: This code implements and compares three versions of the perceptron algorithm: standard, voted, and average. Then calculates the average test error for each variation.
