@@ -9,3 +9,5 @@ Ensemble Learning: contains various ensemble methods like Random Forests, AdaBoo
 Linear Regression: contains methods implmementing stochastic gradient descent, and batch gradient descent. 
 
 Perceptron: This code implements and compares three versions of the perceptron algorithm: standard, voted, and average. Then calculates the average test error for each variation.
+
+SVM: This code implements both linear and Gaussian kernel-based Support Vector Machines (SVMs), includes methods for, support vector identification, as well as the performance evaluation for different hyperparameters.
